@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\technofarmtransport2.props" />
+</Project>
