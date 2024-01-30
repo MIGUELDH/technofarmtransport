@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mdh\\Desktop\\proyectos\\technofarmtransport\\technofarmtransport2\\technofarmtransport2.csproj": {}
+    "C:\\Users\\mdh\\Desktop\\proyectos\\transport\\technofarmtransport\\technofarmtransport2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mdh\\Desktop\\proyectos\\technofarmtransport\\technofarmtransport2\\technofarmtransport2.csproj": {
+    "C:\\Users\\mdh\\Desktop\\proyectos\\transport\\technofarmtransport\\technofarmtransport2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mdh\\Desktop\\proyectos\\technofarmtransport\\technofarmtransport2\\technofarmtransport2.csproj",
+        "projectUniqueName": "C:\\Users\\mdh\\Desktop\\proyectos\\transport\\technofarmtransport\\technofarmtransport2.csproj",
         "projectName": "technofarmtransport2",
-        "projectPath": "C:\\Users\\mdh\\Desktop\\proyectos\\technofarmtransport\\technofarmtransport2\\technofarmtransport2.csproj",
+        "projectPath": "C:\\Users\\mdh\\Desktop\\proyectos\\transport\\technofarmtransport\\technofarmtransport2.csproj",
         "packagesPath": "C:\\Users\\mdh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mdh\\Desktop\\proyectos\\technofarmtransport\\technofarmtransport2\\obj\\",
+        "outputPath": "C:\\Users\\mdh\\Desktop\\proyectos\\transport\\technofarmtransport\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdh\\AppData\\Roaming\\NuGet\\NuGet.Config"
